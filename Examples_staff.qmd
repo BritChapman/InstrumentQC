@@ -3,6 +3,7 @@ To manually send the QC data to the server, please click the green play button b
 
 
 
+
 ```{r}
 #| eval: false
 #3L
